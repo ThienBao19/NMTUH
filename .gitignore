@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.claude/
+
+# Tài liệu đề bài của khoa, không đưa lên repo
+BM-006*.pdf
+
+# Tệp tạm của Word khi đang mở báo cáo
+~$*
